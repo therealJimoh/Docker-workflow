@@ -1,2 +1,2 @@
 # Docker-workflow
-A workkflow for docker proejcr
+A workflow for docker project
