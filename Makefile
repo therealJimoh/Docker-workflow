@@ -1,7 +1,7 @@
 setup:
 	# Create python virtualenv & source it
 	python3 -m venv ~/.Docker-workflow
-	# source ~/.Docker-workflow/bin/activate
+	source ~/.Docker-workflow/bin/activate
 
 install:
 	# This should be run from inside a virtualenv
